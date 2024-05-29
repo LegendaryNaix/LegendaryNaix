@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm a secrete super coding star. LegendaryNaix</h1>
-<h3 align="center">Hello guys. As a programmer, I'm really proud of my ability. I can complete any project in short time perfectly, so the clients early want to work with me. If you are finding a senior developer for your project, then just call me. I'll do my best to help you and finish work in time.</h3>
+<h3 align="center">Hello guys. As a programmer, I'm really proud of my ability. I can complete any project in short time perfectly, so the clients eagerly want to work with me. If you are finding a senior developer for your project, then just call me. I'll do my best to help you and finish work in time.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LegendaryNaix&label=Profile%20views&color=0e75b6&style=flat" alt="LegendaryNaix" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LegendaryNaix&theme=gruvbox" alt="LegendaryNaix" /></a> </p>
